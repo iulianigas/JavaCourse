@@ -3,7 +3,7 @@ package com.iulian;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
         int myValue = 10000;
 
         int myMinIntValue = Integer.MIN_VALUE;
@@ -36,6 +36,25 @@ public class Main {
 
         long bigLongLiteralValue = 2_147_483_647L;
         System.out.println(bigLongLiteralValue);
+
+        //Casting in Java
+
+        int myTotal = (myMinIntValue / 2);
+
+        byte myNewByteValue = (byte) (myMinByteValue / 2);
+
+        short myNewShortValue = (short) (myMinShortValue / 2);
+
+        //CHALLENGE
+
+        byte myByteNumber = 11;
+
+        short myShortNumber = 125;
+
+        int myIntNumber = 420;
+
+        long myLongNumber = 50000L + 10L * ( myByteNumber + myShortNumber + myIntNumber);
+        System.out.println(myLongNumber);
 
 
     }
