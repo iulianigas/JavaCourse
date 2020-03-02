@@ -6,3 +6,7 @@
 4. CharAndBoolean
 5. Strings
 6. Operators
+
+----- Second Section -----
+7.Methods
+8.Coding exercises
