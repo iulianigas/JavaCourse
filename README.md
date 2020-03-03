@@ -8,5 +8,6 @@
 6. Operators
 
 ----- Second Section -----
+
 7.Methods
-8.Coding exercises
+8.Coding exercises: SpeedConverter, MegaBytesConverter, BarkingDog, LeapYearCalculator, DecimalComparator, EqualSumChecker, TeenNumberChecker
