@@ -16,11 +16,10 @@ public class Main {
         char myCopyrightChar = '\u00A9';
         System.out.println(myCopyrightChar);
 
-        boolean myTrueValue = true;
-        boolean myFalseValue = false;
+        boolean myTrueBooleanValue = true;
+        boolean myFalseBooleanValue = false;
 
-
-
+        boolean isCustomerOverEighteen = true;
 
     }
 }

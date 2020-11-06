@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" />
+    </modules>
+  </component>
+</project>
